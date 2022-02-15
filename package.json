@@ -48,5 +48,5 @@
     ]
   },
   "proxy": "http://backend:4000",
-  "publishConfig":{"registry":"http://172.17.0.3:8081/repository/npm-group-repo/"}
+  "publishConfig":{"registry":"http://172.17.0.3:8081/repository/npm-calendar-client/"}
 }
