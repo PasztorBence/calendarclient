@@ -48,5 +48,5 @@
     ]
   },
   "proxy": "http://backend:4000",
-  "publishConfig":{"registry":"http://my-internal-registry.local"}
+  "publishConfig":{"registry":"http://localhost:8081/repository/npm-group-repo/"}
 }
