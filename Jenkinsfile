@@ -1,3 +1,2 @@
-library 'sharedlibtest'
-
-nodepipeline(){}
+@Library('sharedlibtest') _
+nodepipeline{}
