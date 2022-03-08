@@ -1,2 +1,4 @@
 @Library('sharedlibtest') _
-nodepipeline{}
+nodepipeline{
+text = "warzone"  
+}
